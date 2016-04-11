@@ -1,6 +1,6 @@
 {
   "name": "gramene-dalliance",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "description": "Fast, embeddable genome visualization",
   "homepage": "https://www.biodalliance.org/",
   "main": "index.js",
