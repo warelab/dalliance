@@ -4,9 +4,6 @@
   "description": "Fast, embeddable genome visualization",
   "homepage": "https://www.biodalliance.org/",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "gulp compile-worker"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:dasmoth/dalliance.git"
